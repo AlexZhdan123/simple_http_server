@@ -1,0 +1,6 @@
+{
+  "400": {"code": 400, "msg":"Bad request", "pagePath" :"./errorPages/400_html.html"},
+  "404": {"code": 404, "msg":"Resource not found", "pagePath" :"./errorPages/404_html.html"},
+  "405": {"code": 405, "msg":"Method not allowed", "pagePath" :"./errorPages/405_html.html"},
+  "500": {"code": 500, "msg":"Internal server error", "pagePath" :"./errorPages/500_html.html"}
+}
